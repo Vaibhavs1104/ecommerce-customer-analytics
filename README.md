@@ -137,5 +137,5 @@ ecommerce-analytics-project/
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn] | [Portfolio] | [Email]
+**Vaibhav Shelke**
+www.linkedin.com/in/vaibhav-shelke-23a664167 | vshelke212@gmail.com
